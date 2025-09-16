@@ -1,3 +1,7 @@
+---
+theme: dashboard
+toc: false
+---
 # Weather report
 
 ```js
